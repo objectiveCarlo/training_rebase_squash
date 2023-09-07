@@ -1,3 +1,5 @@
 init.txt
 squash
 kopi
+Hello
+World
