@@ -2,3 +2,4 @@ init.txt
 squash
 kopi
 Hi
+Earth
