@@ -3,3 +3,6 @@ squash
 kopi
 Hello
 World
+Hi
+Hi
+Earth
